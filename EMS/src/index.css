@@ -1,0 +1,9 @@
+.nav-btn:hover{
+    text-decoration: underline!important;
+}
+.MuiButton-outlined:hover{
+    color:white
+}
+body{
+    background-color: #eeeeee;
+}
